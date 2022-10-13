@@ -1,4 +1,4 @@
-class_name BehaviorTreeFailure, "icons/cancel.svg"
+class_name BehaviorTreeFailure, "icons/cancel.png"
 extends BehaviorTreeDecorator
 
 

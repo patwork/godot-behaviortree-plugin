@@ -1,4 +1,4 @@
-class_name BehaviorTreeSuccess, "icons/confirmed.svg"
+class_name BehaviorTreeSuccess, "icons/confirmed.png"
 extends BehaviorTreeDecorator
 
 

@@ -1,4 +1,4 @@
-class_name BehaviorTreeRoot, "icons/checkbox-tree.svg"
+class_name BehaviorTreeRoot, "icons/checkbox-tree.png"
 extends BehaviorTree
 
 

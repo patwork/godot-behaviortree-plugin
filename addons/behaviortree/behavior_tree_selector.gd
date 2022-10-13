@@ -1,4 +1,4 @@
-class_name BehaviorTreeSelector, "icons/choice.svg"
+class_name BehaviorTreeSelector, "icons/choice.png"
 extends BehaviorTreeComposite
 
 

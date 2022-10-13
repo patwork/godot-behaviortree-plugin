@@ -1,4 +1,4 @@
-class_name BehaviorTreeWait, "icons/alarm-clock.svg"
+class_name BehaviorTreeWait, "icons/alarm-clock.png"
 extends BehaviorTreeAction
 
 

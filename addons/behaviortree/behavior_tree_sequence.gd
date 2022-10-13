@@ -1,4 +1,4 @@
-class_name BehaviorTreeSequence, "icons/checklist.svg"
+class_name BehaviorTreeSequence, "icons/checklist.png"
 extends BehaviorTreeComposite
 
 

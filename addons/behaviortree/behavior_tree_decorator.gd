@@ -1,4 +1,4 @@
-class_name BehaviorTreeDecorator, "icons/large-paint-brush.svg"
+class_name BehaviorTreeDecorator, "icons/large-paint-brush.png"
 extends BehaviorTreeLeaf
 
 

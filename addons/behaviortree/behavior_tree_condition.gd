@@ -1,2 +1,2 @@
-class_name BehaviorTreeCondition, "icons/uncertainty.svg"
+class_name BehaviorTreeCondition, "icons/uncertainty.png"
 extends BehaviorTreeLeaf

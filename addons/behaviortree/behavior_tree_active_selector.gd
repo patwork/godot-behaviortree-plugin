@@ -1,4 +1,4 @@
-class_name BehaviorTreeActiveSelector, "icons/choice-anticlockwise-rotation.svg"
+class_name BehaviorTreeActiveSelector, "icons/choice-anticlockwise-rotation.png"
 extends BehaviorTreeComposite
 
 

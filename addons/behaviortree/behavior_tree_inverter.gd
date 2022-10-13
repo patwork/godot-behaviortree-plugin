@@ -1,4 +1,4 @@
-class_name BehaviorTreeInverter, "icons/interdiction.svg"
+class_name BehaviorTreeInverter, "icons/interdiction.png"
 extends BehaviorTreeDecorator
 
 
